@@ -6,7 +6,9 @@
 ## 🚀 About Me
 - 🎓 Final Year Engineering Student  
 - 💻 Passionate about Web Development and AI Tools  
-- 🚀 Currently building scalable full-stack applications
+- 🚀 Currently building scalable full-stack applications  
+- 🎯 Interested in Backend Systems and Scalable Web Applications  
+
 ---
 
 ## 🛠 Tech Stack
@@ -18,7 +20,30 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Hosted%20on-Render-46E3B7?logo=render&logoColor=white"/>
 </p>
- Also familar with Java,Data Structures & Algorithms,OOP,DBMS,OS,CNS
+
+<p align="center">
+Also familiar with <b>Java, Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks</b>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pushpakganganmale&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakganganmale&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=pushpakganganmale&theme=tokyonight"/>
+</p>
 
 ---
 
