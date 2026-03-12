@@ -7,7 +7,6 @@
 - 🎓 Final Year Engineering Student  
 - 💻 Passionate about Web Development and AI Tools  
 - 🚀 Currently building scalable full-stack applications  
-- 🎯 Interested in Backend Systems and Scalable Web Applications  
 
 ---
 
