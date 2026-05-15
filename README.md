@@ -49,7 +49,7 @@ Also familiar with <b>Java, Data Structures & Algorithms, OOP, DBMS, Operating S
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pushpak-ganganmale-187814219/">
+<a href="https://www.linkedin.com/in/pushpakganganmale/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
