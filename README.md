@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pushpak Ganganmale</h1>
 
 <h3 align="center">
-Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
+Software Engineer | Full Stack Developer | Node.js | Java | AI SaaS Builder
 </h3>
 
 <p align="center">
@@ -12,17 +12,20 @@ Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
 
 # 🚀 About Me
 
-🎓 Final Year Computer Engineering Student (CGPA: **8.80/10**)
+🎓 Final Year Computer Engineering Student at Savitribai Phule Pune University  
+(SGPA: **8.80/10**)
 
-💻 Backend-Focused Full Stack Developer
+💻 Full Stack Developer passionate about scalable systems
 
-🚀 Built & deployed AI-powered SaaS applications
+🚀 Built & deployed **AI-powered SaaS applications** with real-world features
 
-💳 Integrated Razorpay Payment Gateway with secure webhook verification
+⚙️ Experienced in **REST APIs, Authentication, Database Design, and Backend Architecture**
+
+💳 Integrated **Razorpay Payment Gateway with secure webhook verification**
 
 🧠 Solved **625+ DSA Problems**
 
-📚 Currently learning **System Design**, **Docker**, and **Scalable Backend Architecture**
+📚 Currently learning **System Design, Docker, Microservices, and Scalable Backend Architecture**
 
 ---
 
@@ -50,7 +53,7 @@ Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,docker,git,github,postman,vscode,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,docker,git,github,postman,vscode,tailwind,html,css" />
 
 </p>
 
@@ -58,16 +61,19 @@ Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
 
 # ⚡ Backend Skills
 
-- REST APIs
+- REST API Development
+- Node.js & Express.js
+- Java Backend Development
 - JWT Authentication
-- Razorpay Integration
-- Webhooks
+- Role Based Authorization
+- Razorpay Payment Integration
+- Secure Webhooks
 - MongoDB Optimization
+- Database Indexing
 - MVC Architecture
-- Secure Authentication
-- Error Handling
 - API Validation
-- Role Based Authentication
+- Error Handling Middleware
+- Cloud Deployment
 
 ---
 
@@ -77,7 +83,7 @@ Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
 
 ✔ Object-Oriented Programming
 
-✔ DBMS
+✔ Database Management Systems
 
 ✔ Operating Systems
 
@@ -89,29 +95,54 @@ Backend-Focused Full Stack Developer | MERN Stack | Node.js | AI SaaS Builder
 
 # 🚀 Featured Projects
 
+
 ## 💳 InvoiceGenius
 
 ### AI Invoice Management SaaS
+
 
 ### Tech Stack
 
 React • Node.js • Express.js • MongoDB • Clerk • Razorpay • GROQ API
 
+
 ### Features
 
-✅ AI Invoice Generation
+✅ AI-powered Invoice Generation
 
 ✅ Razorpay Payment Gateway
 
+✅ Secure Webhook Verification
+
 ✅ Clerk Authentication
 
-✅ PDF Export
+✅ PDF Invoice Export
 
 ✅ Dashboard Analytics
 
 ✅ REST APIs
 
-✅ MongoDB Optimization
+✅ MongoDB Query Optimization
+
+
+### Backend Architecture
+
+```
+React Frontend
+        |
+        |
+REST API Layer
+        |
+        |
+Node.js + Express.js
+        |
+        |
+MongoDB Database
+        |
+        |
+Razorpay | Clerk | GROQ API
+```
+
 
 ### Links
 
@@ -119,9 +150,11 @@ React • Node.js • Express.js • MongoDB • Clerk • Razorpay • GROQ API
 
 https://invoicegenius-4ffi.onrender.com/app/dashboard
 
+
 🔗 GitHub
 
 https://github.com/pushpakganganmale/AI_invoice_generator-SAAS
+
 
 ---
 
@@ -129,9 +162,11 @@ https://github.com/pushpakganganmale/AI_invoice_generator-SAAS
 
 ### AI Resume Builder
 
+
 ### Tech Stack
 
 React • Node.js • Express.js • MongoDB • JWT • GROQ API
+
 
 ### Features
 
@@ -139,11 +174,29 @@ React • Node.js • Express.js • MongoDB • JWT • GROQ API
 
 ✅ JWT Authentication
 
+✅ Secure REST APIs
+
 ✅ Resume Templates
+
+✅ CRUD Operations
 
 ✅ PDF Export
 
-✅ CRUD APIs
+✅ Real-Time Resume Preview
+
+
+### Backend Concepts
+
+✅ Authentication & Authorization
+
+✅ Database Modeling
+
+✅ API Design
+
+✅ Secure Password Handling
+
+✅ Server-side PDF Generation
+
 
 ### Links
 
@@ -151,9 +204,11 @@ React • Node.js • Express.js • MongoDB • JWT • GROQ API
 
 https://ai-resume-builder-frontend-g5gs.onrender.com/
 
+
 🔗 GitHub
 
 https://github.com/pushpakganganmale/ai_resume_builder
+
 
 ---
 
@@ -163,9 +218,11 @@ https://github.com/pushpakganganmale/ai_resume_builder
 
 🚀 Built **2 Production-Ready SaaS Applications**
 
-💳 Razorpay Payment Integration
+🤖 Built AI-Powered Applications
 
-🤖 AI-Powered Applications
+💳 Payment Gateway Integration
+
+⚡ Backend API Development
 
 🎓 CGPA **8.80/10**
 
@@ -233,7 +290,9 @@ https://github.com/pushpakganganmale/ai_resume_builder
 
 🌱 Microservices
 
-🌱 Scalable Architecture
+🌱 Cloud Architecture
+
+🌱 Scalable Distributed Systems
 
 ---
 
@@ -243,13 +302,16 @@ https://github.com/pushpakganganmale/ai_resume_builder
 
 pushpakganganmale12345@gmail.com
 
+
 💼 **LinkedIn**
 
 https://www.linkedin.com/in/pushpakganganmale
 
+
 💻 **GitHub**
 
 https://github.com/pushpakganganmale
+
 
 ---
 
@@ -258,6 +320,7 @@ https://github.com/pushpakganganmale
 ⭐ If you like my work, consider giving a star to my repositories!
 
 </p>
+
 
 <p align="center">
 
