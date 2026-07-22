@@ -13,7 +13,7 @@ Software Engineer | Full Stack Developer | Node.js | Java | AI SaaS Builder
 # 🚀 About Me
 
 🎓 Final Year Computer Engineering Student at Savitribai Phule Pune University  
-(SGPA: **8.80/10**)
+(SGPA: **7.78/10**)
 
 💻 Full Stack Developer passionate about scalable systems
 
